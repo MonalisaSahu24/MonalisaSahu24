@@ -12,7 +12,7 @@ I love building smart projects and solving challenging problems through code.
 - 💡 Active on **LeetCode & HackerRank** to sharpen problem-solving skills  
 - 👩‍💻 Built projects like **Smart Transit Management System, Smart Parking Assistance** and more  
 - 🤝 Open to collaborations on **IoT, ML, ServiceNow, and Web projects**  
-- ⚡ Fun fact: *Consistency beats motivation every time!* 🚀  
+- ⚡ Fun fact: *Think, code, commit* 🚀  
 
 ---
 
