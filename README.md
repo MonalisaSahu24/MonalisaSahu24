@@ -48,7 +48,7 @@ Reduced congestion through live slot availability display.
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monalisasahu0224@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:monalisasahu0224@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monalisasahu24/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Monalisa_Sahu24/)
 
